@@ -2,4 +2,4 @@
 
 update komutlari eklendi. 
 
-jenkins
+jenkins2
